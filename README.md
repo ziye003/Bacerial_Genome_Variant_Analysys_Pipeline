@@ -1,6 +1,12 @@
 # Bacerial_Genome_Variant_Analysys_Pipeline
 
-Variant calling analysis of bacterial genomce on slurm / linux shell
+Variant calling analysis of bacterial genomce on PBS/slurm / linux shell
+
+Updates:
+The .slurms files are for GATK4.
+dup.slurm (sam files)
+CallVariant.slurm (metrics files and vcf.files)
+variant.slurm (snp and indels)
 
 
 Full List of Tools Used in this Pipeline:
